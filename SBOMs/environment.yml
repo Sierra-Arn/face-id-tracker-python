@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - cudatoolkit
+  - dlib
+  - face_recognition
+  - opencv
+  - pydantic-settings
+  - numpy
