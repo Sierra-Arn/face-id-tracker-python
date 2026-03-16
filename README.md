@@ -2,8 +2,8 @@
 
 A real-time facial recognition system using the [face_recognition](https://github.com/ageitgey/face_recognition) library with **NVIDIA CUDA** hardware acceleration. The project is implemented in an isolated **Conda** environment for reproducibility and portability.
 
-> **Note**:  
-This is an educational project focused on demonstrating modern computer vision workflows and CUDA acceleration rather than providing a production facial recognition system.
+> [!NOTE]  
+**This repository is archived.** This is a personal pet project built purely for learning — it was never intended to be actively maintained or production-ready.
 
 ## **Available Documentation / Доступная документация**
 
